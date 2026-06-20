@@ -33,6 +33,7 @@ body{
     border-radius: 10px;
     width: 50%;
     height:auto;
+    margin:50px;
 
     box-shadow: 0 0 20px red;
     background: #1f2937;
@@ -69,7 +70,7 @@ body{
 }
 .hero-img{
     box-shadow: 0 0 20px red;
-    margin: 5px;
+    margin: 50px;
 
 
     height: auto;
@@ -105,6 +106,7 @@ body{
 .submit-btn{
     border-radius: 10px;
     margin-top: 20px;
+    margin:50px;
 }
 
 #submit-btn{
