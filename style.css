@@ -1,0 +1,136 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: white;
+}
+.Hero-container{
+    border-left: 10px solid gray;
+    border-right: 10px solid gray;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    height: 70vh;
+    width: fit-content;
+
+    background-color:#111827;
+
+    margin: 50px;
+    
+
+    
+
+
+    
+
+}
+
+.about-hero{
+    border-left: 5px solid gray;
+    border-radius: 10px;
+    margin: 5px;
+    width: 50%;
+    height:auto;
+
+    box-shadow: 0 0 20px red;
+
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    background: #1f2937;
+
+    justify-content: center;
+}
+.about-hero h1{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+
+    color: yellow;
+    font-style: italic;
+}
+
+.about-hero h2{
+    display: flex;
+    justify-content: center;
+    color: white;
+
+}
+.about-hero p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    font-style: italic;
+    color: white;
+}
+.about-hero:hover{
+    transform: scale(1.05);
+
+    box-shadow: 0 0 10px 5px gray;
+}
+.hero-img{
+    box-shadow: 0 0 20px red;
+    margin: 5px;
+
+
+    height: auto;
+    width:100%;
+    max-width: 300px;
+    
+    aspect-ratio: 1;
+    overflow: hidden;
+
+
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.3;
+
+
+}
+
+
+.hero-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+} 
+.hero-img:hover{
+    transform: scale(1.2);
+
+    box-shadow: 0 0 10px 5px gray;
+}
+
+.submit-btn{
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#submit-btn{
+    width: 100%;
+    padding: 8%;
+    background:#1f2937;
+    color: white;
+    border-radius: 10px;
+
+
+    box-shadow: 0 0 10px red;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.submit-btn:hover{
+    transform: translateY(-3px);
+    box-shadow: 0  0 10px 5px gray;
+}
+
+
