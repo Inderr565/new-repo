@@ -1,8 +1,5 @@
 body{
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    background: white;
+
 }
 .Hero-container{
     border-left: 10px solid gray;
