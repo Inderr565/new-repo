@@ -33,7 +33,7 @@ body{
     border-radius: 10px;
     width: 50%;
     height:auto;
-    margin:50px;
+    margin:20px;
 
     box-shadow: 0 0 20px red;
     background: #1f2937;
@@ -70,7 +70,7 @@ body{
 }
 .hero-img{
     box-shadow: 0 0 20px red;
-    margin: 50px;
+    margin: 20px;
 
 
     height: auto;
