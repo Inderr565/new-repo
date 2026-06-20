@@ -31,14 +31,10 @@ body{
 .about-hero{
     border-left: 5px solid gray;
     border-radius: 10px;
-    margin: 5px;
     width: 50%;
     height:auto;
 
     box-shadow: 0 0 20px red;
-
-    margin-top: 10vh;
-    margin-bottom: 10vh;
     background: #1f2937;
 
     justify-content: center;
